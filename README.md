@@ -1,5 +1,5 @@
 # Email Spam Detector Project: Project Overview
-This project uses Natural Langauge Processing and Classification to predict whether an email is a spam or not.
+This project uses Natural Language Processing and Classification to predict whether an email is a spam or not.
 * Create a tool that classify email spams to help users identify spam emails
 * Engineered features from texts to bag-of-words model and tf-idf, in order
 * Used Naive Bayes Classifier to reach a high accuracy
